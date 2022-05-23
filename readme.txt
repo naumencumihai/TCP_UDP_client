@@ -2,7 +2,6 @@ Naumencu Mihai
 336 CA
 
 Tema2 Protocoale de Comunicatii
-2022
 
 
 subscriber.c:
